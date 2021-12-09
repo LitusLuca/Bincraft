@@ -1,0 +1,19 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+
+.visualy-hidden{
+    display: none;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+    padding: .5em;
+    margin: .5em;
+}
